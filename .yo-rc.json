@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "statservicev3",
+    "packageName": "es.us.isa.statservice",
+    "packageFolder": "es/us/isa/statservice",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "a3ab80549ab2943a39115074f148a57b60d01a6c"
+  }
+}

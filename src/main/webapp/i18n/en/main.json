@@ -1,0 +1,25 @@
+{
+    "main": {
+        "title": "Welcome to STATService v3!",
+        "subtitle": "STATService is a suite of software components for statististical analysis. Currently it comprises of:",
+        "components":
+           {
+               "Web app":"This web portal, that allows you to perform statistical analysis directly online, and download all the components of the suite.",
+                "API":"A set of XML web services, that allows the programmatic use of statistical tests from nearly any programming language and plattform.",
+                "EXCEL plugin":"A set of plugins that allows to integrate statitical analysis in your favourite programs. Currently we have plugins for Excel 2010 and Excel 2007."
+                    
+            },
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "question": "If you have any question on JHipster:",
+        "link": {
+            "homepage": "STATService homepage",
+            "stackoverflow": "STATService on Stack Overflow",
+            "bugtracker": "STATService bug tracker",
+            "contact": "contact @statservice on Twitter"
+        },
+        "like": "If you like STATService, don't forget to give us a star on",
+        "github": "Github"
+    }
+}
